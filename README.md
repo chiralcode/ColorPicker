@@ -1,6 +1,8 @@
 Color Picker for Android
 ===================================
 
+Forked to improve ease of use as a library module and added support for production of a maven artifact via the `uploadArchives` gradle task.
+
 Easy to use, fully functional color picker with compact design based on HSV color model. Project consists two main classes which can be easily extended and suited to user requirements.
 
 * ColorPicker.java - basic color picker which allows user to pick a single color
