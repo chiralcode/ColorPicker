@@ -9,7 +9,6 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.chiralcode.colorpicker.ColorPicker;
-import com.chiralcode.colorpicker.R;
 
 public class ColorPickerActivity extends Activity {
 
