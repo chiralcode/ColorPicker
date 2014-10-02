@@ -56,6 +56,11 @@ Color Picker can be used also on Preferece Screen. Usage is the same as for any 
 
 Provided demo implementation extends DialogPreference. See ColorPickerPreference.java.
 
+Building
+--------
+
+Android-Color-Picker is split into two modules (`library` and `demo`), both can be built using the standard `gradle build` task. Additionally the `uploadArchives` task can be used on the library module to produce a maven artifact in `/library/build/mvn-repo`.
+
 License
 -------
 

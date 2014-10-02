@@ -3,8 +3,6 @@ package com.chiralcode.colorpicker.demo;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 
-import com.chiralcode.colorpicker.R;
-
 public class PreferencesActivity extends PreferenceActivity {
 
     @SuppressWarnings("deprecation")
